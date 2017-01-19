@@ -14,11 +14,11 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-  }
+}
 
-  *, *::before, *::after {
+*, *::before, *::after {
   box-sizing: inherit;
-  }
+}
 
 body {
   margin: 0;
@@ -104,10 +104,10 @@ a:hover {
     vertical-align: middle;
     width: 90%;
     margin-top: 1rem;
-    }
+  }
 
   p {
-  max-width: 95%;
+    max-width: 95%;
   }
 
   body {
